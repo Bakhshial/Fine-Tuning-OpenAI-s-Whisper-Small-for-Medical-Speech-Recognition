@@ -1,0 +1,1 @@
+# Fine-Tuning-OpenAI-s-Whisper-Small-for-Medical-Speech-Recognition
